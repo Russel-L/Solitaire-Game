@@ -6,7 +6,8 @@ This project was created as a final requirement in our Object-Oriented Programmi
 
 Project Features:
 - a new game function
-- a high score function (all scores are saved in a local text file within the project)
+- a submit score function
+- a leaderboard function (all scores are saved in a local text file within the project)
 - an exit function 
 - a waste pile of 1 card at a time
 
