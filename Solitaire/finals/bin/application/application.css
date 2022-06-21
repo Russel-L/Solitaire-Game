@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.bodybg{
+	-fx-background-image: url("solitairebg.jpg"); 
+}
+
+.button_style_normal{
+	-fx-background-color: transparent; -fx-padding: 5,5,5,5;
+}
+
+.button_style_pressed{
+	-fx-background-color: transparent; -fx-padding: 6,4,4,6;
+}
+
+.scorebg{
+	-fx-background-image: url("fxmlbg.jpg"); 
+}
+
+.gameoverbg{
+	-fx-background-image: url("fxmlbg.png"); 
+}

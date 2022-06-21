@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.layout.GridPane?>
+
+
+<GridPane stylesheets="@../application.css" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17">
+   <styleClass>
+      <String fx:value="bodybg" />
+      <String fx:value="button_style_normal" />
+      <String fx:value="button_style_pressed" />
+   </styleClass>
+</GridPane>
