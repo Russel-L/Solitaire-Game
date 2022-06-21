@@ -11,10 +11,10 @@ Project Features:
 - a waste pile of 1 card at a time
 
 Scoring System
-/n Waste to Tableau: 5 points
-Waste to Foundation: 10 points
-Tableau to Foundation: 10 points
-Turn over Tableau Card: 5 points
-Foundation to Tableau: -15 points 
-Recycle Waste: -100 points
-Score cannot be less than 0.
+- Waste to Tableau: 5 points
+- Waste to Foundation: 10 points
+- Tableau to Foundation: 10 points
+- Turn over Tableau Card: 5 points
+- Foundation to Tableau: -15 points 
+- Recycle Waste: -100 points
+- Score cannot be less than 0.
